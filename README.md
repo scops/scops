@@ -61,12 +61,11 @@ Long-term Bitcoin enthusiast and full-node operator. Following post-quantum cryp
 Graph-based long-term memory framework for AI agents. Stores entities, observations, and relationships in a Neo4j knowledge graph, exposed to any MCP-compatible client. Apache 2.0, with a plug-and-play open-core architecture and an optional managed cloud sync.
 *Stack: Python, FastMCP, Neo4j, Ollama (optional embeddings).*
 
-### Murmur Protocol *(early stage)*
-Open-source decentralized protocol for AI agents combining **post-quantum cryptography**, **Bitcoin / Lightning** payments, and censorship-resistant **P2P networking** (Kademlia DHT). Goal: two agents can discover each other, negotiate a task, and settle payment with no central infrastructure.
-*Stack: Rust workspace, libp2p, LDK.*
-
 ### MCP servers
 A growing set of MCP servers built both as production tools and as teaching material, Obsidian sync with markmap visualization, real estate platform integration (OAuth 2.1, Streamable HTTP), web article summarization with Playwright. Each one demonstrates a different transport, auth model, or tool design pattern.
+
+### Enterprise Data & AI Platforms
+Architecting scalable data and AI solutions across the mobility and PropTech sectors. Recent work includes developing an end-to-end BI and ETL ecosystem for a major on-demand mobility platform, featuring AI analytics and a custom MCP server for multi-agent data consumption. Additionally, consulting for luxury real estate agencies and authoring a comprehensive PropTech marketplace that leverages advanced AI and MCP integrations to streamline property discovery.
 
 ---
 
